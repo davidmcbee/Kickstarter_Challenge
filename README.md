@@ -26,4 +26,4 @@ Another challenge with both goal and pledge amounts are that they are all listed
 2. Having mixed currencies skews the results. One can convert Pounds to U.S. Dollars, but the timing of those conversions based on fluctuating rates would need to be considered.
 3. Understanding the incentives for different pledge amounts could also be helpful.
 ## Other Possible Tables and/or graphs That We Could Create
-o	I believe tracking the success vs failure rates across time to indicate the different success/failure ratios would provide valuable information. This could be compared to goal and pledge amounts over time as well.
+I believe tracking the success vs failure rates across time to indicate the different success/failure ratios would provide valuable information. This could be compared to goal and pledge amounts over time as well.
